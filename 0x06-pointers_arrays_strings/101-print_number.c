@@ -15,9 +15,9 @@ void print_number(int n)
 	unsigned int absolute_n;
 
 	if (n < 0)
-	{
-		absolute_n = -n;
-		_putchar(45);
+{
+absolute_n = -n;
+_putchar(45);
 	}
 	else
 	{
